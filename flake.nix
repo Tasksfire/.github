@@ -14,7 +14,7 @@
         inherit system;
       };
     in pkgs.mkShell {
-      name = "cppEnv";
+      name = "taskfire";
 
       packages = with pkgs; [
         gcc
