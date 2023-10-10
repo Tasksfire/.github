@@ -1,1 +1,0 @@
-# Tasksfire is tasks management system based on my own deque idea.
